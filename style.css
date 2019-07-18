@@ -1,0 +1,31 @@
+.text{
+  text-align: center;
+}
+
+#text2{
+  font-size: 50px;
+}
+.jumbotron{
+  background-color:#abf7e2;
+}
+
+#table{
+border-color: white;
+margin-left:auto;
+margin-right:auto;
+margin-bottom: 10px;
+}
+
+td{
+  width:120px;
+  height: 120px;
+}
+
+.roundbutton{
+display:block;
+background-color: grey;
+height: 150px;
+width: 150px;
+border-radius: 50%;
+border: 5px solid black;
+}
